@@ -5,3 +5,5 @@ I'm a big fan of free software (FOSS), low level programmation and cool stuff. I
 I also played a lot of Geometry Dash in the past - username: Davphla
 
 I'm open for contributing ! 🐟🐙
+
+![image](https://reportz.dev/badge/org/samourai-coop.svg)
